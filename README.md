@@ -8,7 +8,7 @@ Dataset: [https://www.kaggle.com/ruchi798/tv-shows-on-netflix-prime-video-hulu-a
 
 The goal of this project was to create at least three different visualizations from a publicly available dataset. Our team consisted of Alexander Mills, Tyrus Miles, and Vidhi Bhargava. The dataset that we chose to make visualizations of was entitled “TV Shows on Netflix, Prime Video, Hulu, and Disney+”. After going through the data, we chose to create the following types of visualizations: a bar chart, a line graph, and a pie chart. We felt that these types of visualizations would allow us to display data in a clear and concise manner, while still granting a degree of creative freedom to make the data interesting to viewers.
 
-![alttext](https://github.com/asu-cse494-f2021/Project-Alexander-Tyrus-Vidhi/blob/c32d743180d05dd41652b67e047feaa2c9adcc76/thumbnail.PNG)
+![alttext](https://github.com/vidhibhar/Tv-Visualization/blob/95659eeaf566891a0a9e0f14d3ad969b4c0dc14b/thumbnail.PNG)
 
 ## **Data Description**
 
